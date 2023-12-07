@@ -14,3 +14,5 @@ The 40 categories include: `airplane`, `bathtub`, `bed`, `bench`, `bookshelf`, `
 ModelNet10 dataset is a part of ModelNet40 dataset, containing 4,899 pre-aligned shapes from 10 categories. There are 3,991 (80%) shapes for training and 908 (20%) shapes for testing. The link for official dataset is [here](http://modelnet.cs.princeton.edu/ModelNet40.zip).
 
 The 10 categories include: `bathtub`, `bed`, `chair`, `desk`, `dresser`, `monitor`, `night_stand`, `sofa`, `table`, `toilet`.
+
+## Reproduction of PointCLIP / PointCLIP V2
