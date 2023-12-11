@@ -15,4 +15,3 @@ ModelNet10 dataset is a part of ModelNet40 dataset, containing 4,899 pre-aligned
 
 The 10 categories include: `bathtub`, `bed`, `chair`, `desk`, `dresser`, `monitor`, `night_stand`, `sofa`, `table`, `toilet`.
 
-## Reproduction of PointCLIP / PointCLIP V2
