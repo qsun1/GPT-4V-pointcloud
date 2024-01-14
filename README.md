@@ -1,4 +1,4 @@
-# pointcloud_subset
+# pointcloud dataset
 dataset for paper "Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding"
 
 
