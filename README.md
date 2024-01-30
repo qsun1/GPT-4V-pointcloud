@@ -1,5 +1,5 @@
 # Pointcloud Dataset
-Dataset for paper "Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding".
+Dataset for paper ["Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding"](https://arxiv.org/abs/2401.07572).
 
 
 ## ModelNet40
